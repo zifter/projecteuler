@@ -13,4 +13,5 @@ def main():
     print triplets
 
 
-main()
+if __name__ == '__main__':
+    main()

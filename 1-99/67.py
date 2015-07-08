@@ -7,4 +7,5 @@ def main():
     print finder.get_answer()
 
 
-main()
+if __name__ == '__main__':
+    main()

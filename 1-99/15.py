@@ -20,4 +20,5 @@ def main():
     print get_pahtes_amount((20, 20))
 
 
-main()
+if __name__ == '__main__':
+    main()

@@ -65,4 +65,5 @@ def main():
     print get_greater_serial_product(parse_data(), 13)
 
 
-main()
+if __name__ == '__main__':
+    main()

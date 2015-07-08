@@ -118,4 +118,5 @@ def main():
     print max(maximun_value)
 
 
-main()
+if __name__ == '__main__':
+    main()

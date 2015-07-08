@@ -9,4 +9,5 @@ def main():
     print 2 * sum([p[0] * p[1] for p in combs])
 
 
-main()
+if __name__ == '__main__':
+    main()

@@ -10,4 +10,5 @@ def main():
     print power_digit_sum(2, 1000)
 
 
-main()
+if __name__ == '__main__':
+    main()

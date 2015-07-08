@@ -22,4 +22,5 @@ def main():
     print prime_at(10001)
 
 
-main()
+if __name__ == '__main__':
+    main()

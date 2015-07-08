@@ -26,4 +26,5 @@ def main():
     print sum(eratosthenes(int(2000000)))
 
 
-main()
+if __name__ == '__main__':
+    main()

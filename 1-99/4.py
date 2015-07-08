@@ -29,4 +29,5 @@ def main():
 	print findMax(3)
 
 
-main()
+if __name__ == '__main__':
+    main()

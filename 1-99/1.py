@@ -15,4 +15,5 @@ def main():
     print process(1000)
 
 
-main()
+if __name__ == '__main__':
+    main()

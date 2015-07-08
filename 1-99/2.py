@@ -31,4 +31,5 @@ def main():
     print allEvenValuedNum
 
 
-main()
+if __name__ == '__main__':
+    main()

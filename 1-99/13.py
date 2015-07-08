@@ -109,4 +109,5 @@ def main():
     print str(sum(parse_data()))[0:10]
 
 
-main()
+if __name__ == '__main__':
+    main()
